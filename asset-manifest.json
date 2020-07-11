@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ipaddress-reactjs/static/css/main.27dec586.chunk.css",
+    "main.js": "/ipaddress-reactjs/static/js/main.15ee116a.chunk.js",
+    "main.js.map": "/ipaddress-reactjs/static/js/main.15ee116a.chunk.js.map",
+    "runtime-main.js": "/ipaddress-reactjs/static/js/runtime-main.be62ee0f.js",
+    "runtime-main.js.map": "/ipaddress-reactjs/static/js/runtime-main.be62ee0f.js.map",
+    "static/js/2.c6d609e9.chunk.js": "/ipaddress-reactjs/static/js/2.c6d609e9.chunk.js",
+    "static/js/2.c6d609e9.chunk.js.map": "/ipaddress-reactjs/static/js/2.c6d609e9.chunk.js.map",
+    "index.html": "/ipaddress-reactjs/index.html",
+    "precache-manifest.537f14f2a3127e35bc7dfe217d16fcf0.js": "/ipaddress-reactjs/precache-manifest.537f14f2a3127e35bc7dfe217d16fcf0.js",
+    "service-worker.js": "/ipaddress-reactjs/service-worker.js",
+    "static/css/main.27dec586.chunk.css.map": "/ipaddress-reactjs/static/css/main.27dec586.chunk.css.map",
+    "static/js/2.c6d609e9.chunk.js.LICENSE": "/ipaddress-reactjs/static/js/2.c6d609e9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be62ee0f.js",
+    "static/js/2.c6d609e9.chunk.js",
+    "static/css/main.27dec586.chunk.css",
+    "static/js/main.15ee116a.chunk.js"
+  ]
+}
